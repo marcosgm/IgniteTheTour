@@ -1,4 +1,6 @@
+# Contributing
 
+[![CIS](https://app.soluble.cloud/api/v1/public/badges/ade5f997-771a-4709-a6cc-9068bddf4b23.svg)](https://app.soluble.cloud/repos/details/github.com/marcosgm/ignitethetour)  [![IaC](https://app.soluble.cloud/api/v1/public/badges/cc0d0772-77a6-4eb1-892e-ac5f81d771a9.svg)](https://app.soluble.cloud/repos/details/github.com/marcosgm/ignitethetour)  
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
